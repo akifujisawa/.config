@@ -1,5 +1,2 @@
 # .config
-dotfiles!
-its uh
-my dotfiles
-yeah
+my bad dotfiles
